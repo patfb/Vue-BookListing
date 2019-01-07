@@ -6,8 +6,7 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
-import BookList from "./components/BookList.vue";
+import BookList from "./components/BookList";
 
 export default {
   name: "app",
